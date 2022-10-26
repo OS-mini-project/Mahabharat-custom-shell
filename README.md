@@ -9,4 +9,4 @@ commands:-
 
 
 
-idea credits: Somz :)
+idea credit: Somz :)
